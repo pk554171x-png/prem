@@ -1,0 +1,10 @@
+p {
+background-color: aqua;
+}
+body{
+            font: 1em sans-serif;
+            background-color: blue;
+        }
+        table,th,tr{
+            border: 1 px solid;
+        }
